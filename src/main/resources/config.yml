@@ -1,0 +1,15 @@
+language: en
+
+ranks:
+  1: "&a[VIP]:100"
+  2: "&a[VIP&e+&a]:200"
+  3: "&b[MVP]:300"
+  4: "&b[MVP&f+&b]:400"
+  5: "&b[MVP&6++&b]:500"
+
+commands:
+  1: "lp user %player% parent add vip"
+  2: "lp user %player% parent add vipplus"
+  3: "lp user %player% parent add mvp"
+  4: "lp user %player% parent add mvpplus"
+  5: "lp user %player% parent add mvp2plus"

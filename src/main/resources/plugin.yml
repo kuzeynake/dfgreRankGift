@@ -1,0 +1,12 @@
+name: dfgreRankGift
+version: 1.0.1
+main: me.dfgre.rankgift.Main
+api-version: '1.21'
+commands:
+  gift:
+    description: Ana hediye komutu.
+  gold:
+    description: Gold miktarını gösterir.
+  goldadmin:
+    description: Gold yönetim komutu.
+    permission: dfgrerankgift.admin
